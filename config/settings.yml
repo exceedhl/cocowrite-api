@@ -1,0 +1,8 @@
+root_url: "http://www.local.xxx:9000"
+front_root_url: "http://www.local.xxx:8000"
+root_domain: "cocowrite.com"
+document:
+  target_dir: "/Users/huangliang/code/cocowrite/document_store"
+  latex_template_dir: "/Users/huangliang/code/cocowrite/cntest/docs"
+  server_root_url: "http://www.local.xxx:8888"
+  latex_engine: xelatex
